@@ -65,6 +65,7 @@ while True:
         if tentativas == num_tentativas:
             print("____Número de tentativas excedido.____")
             break
-
+print("------------------------------------------------------------")
 print(f"Valor total do pedido: R$ { valorTotal }")
 print("Muito obrigado pela preferência!")
+print("------------------------------------------------------------")
